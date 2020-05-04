@@ -12,5 +12,6 @@ terragrunt = {
 # Azure AD group module variables
 group_name_suffix                 = "k8s-admins"
 group_members_user_principal_name = [
-  "lucaprete_teamdigitale.governo.it#EXT#@ttdsite.onmicrosoft.com"
+  "lucaprete_teamdigitale.governo.it#EXT#@ttdsite.onmicrosoft.com",
+  "a.sebastiani_teamdigitale.governo.it#EXT#@ttdsite.onmicrosoft.com"
 ]
