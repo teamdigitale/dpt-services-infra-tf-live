@@ -16,5 +16,5 @@ terragrunt = {
 }
 
 # Storage container module related variables
-azurerm_storage_account_name_suffix = "dptservices01"
-azurerm_storage_container_name      = "dpt-services-01"
+azurerm_storage_account_name_suffix   = "dptservices01"
+azurerm_storage_container_name_suffix = "dpt-services-01"
